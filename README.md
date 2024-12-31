@@ -12,12 +12,9 @@ This project uses a U-Net-based deep learning model for segmenting brain tumors 
 - **Web Application**: A user-friendly web app (built with Python and Django) allows users to upload MRI scans and get predictions. *(Link to be added soon.)*
 
 ---
+<img width="869" alt="Screenshot 2024-12-31 at 1 51 57 PM" src="https://github.com/user-attachments/assets/234cc554-445f-4a96-99c3-3ef451e72aef" />
 
 
-## Usage
-1. Use the web app to select MRI images and view predictions.
-
----
 
 ## Results
 The model achieves high accuracy with Dice Coefficients and IoU metrics. 
