@@ -1,5 +1,5 @@
-
-# Brain MRI Tumor Segmentation
+#NeuroVision
+## Brain MRI Tumor Segmentation
 
 This project uses a U-Net-based deep learning model for segmenting brain tumors from MRI images. The model has been trained on the [LGG Segmentation Dataset](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation) and performs binary segmentation to identify tumor regions in MRI scans.
 
